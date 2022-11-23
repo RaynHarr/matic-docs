@@ -19,7 +19,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Decentralized Data
 
-One of Chainlink's most powerful features, is already decentralized, aggregated, and ready to be digested on-chain data on most of the popular cryptocurrencies. These are known as [**Chainlink Data Feeds**](https://docs.chain.link/docs/using-chainlink-reference-contracts). 
+One of Chainlink's most powerful features is already decentralized, aggregated, and ready to be digested on-chain data on most of the popular cryptocurrencies. These are known as [**Chainlink Data Feeds**](https://docs.chain.link/docs/using-chainlink-reference-contracts). 
 
 Here is a working example of a contract that pulls the latest price of MATIC in USD on the Mumbai Testnet. 
 
