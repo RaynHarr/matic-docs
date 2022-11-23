@@ -2,7 +2,7 @@
 id: api3
 title: API3
 sidebar_label: API3
-description: API3 is a first-party oracle that deliver more security, efficiency, and data-source transparency
+description: API3 is a first-party oracle that delivers more security, efficiency, and data-source transparency.
 keywords:
   - wiki
   - polygon
