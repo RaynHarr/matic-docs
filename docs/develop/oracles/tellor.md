@@ -45,7 +45,7 @@ npm install usingtellor
 
 Once installed, this will allow your contracts to inherit the functions from the contract 'UsingTellor'.
 
-Great! Now that you've got the tools ready, let's go through a simple exercise where we retrieve the price of Bitcoin.
+Now that you've got the tools ready, let's go through a simple exercise where we retrieve the price of Bitcoin.
 
 ### BTC/USD Example
 
