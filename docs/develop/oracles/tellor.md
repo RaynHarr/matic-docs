@@ -97,4 +97,3 @@ For ease of use, the  UsingTellor  repo comes with a version of the [Tellor Play
 #### For a more robust implementation of the Tellor oracle, check out the full list of available functions [here.](https://github.com/tellor-io/usingtellor/blob/master/README.md)
 
 #### Still have questions? Join the community [here!](https://discord.gg/tellor)
-
